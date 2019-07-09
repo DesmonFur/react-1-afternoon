@@ -11,7 +11,7 @@ class FilterString extends Component {
     userInput: '',
     filteredNotDogs: []
   }
-  }
+  } 
 
   change(ba){
     this.setState({ userInput: ba})
